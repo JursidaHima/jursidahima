@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 ---
 ## 🌐 Let’s Connect
 
--  ![[**LinkedIn:**](./images/Linkedin.png)] (https://www.linkedin.com/in/jursida-hima-0a38a23a5)
--  ![[**Instagram**](./images/instagram.avif)] (https://www.instagram.com/jursihima/)
+-  ![[**LinkedIn:**]((https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-logo-background-dsk-v03.png.original.png)] (https://www.linkedin.com/in/jursida-hima-0a38a23a5)
+-  ![[**Instagram**]([./images/instagram.avif](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png))] (https://www.instagram.com/jursihima/)
