@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ---
 ## 🌐 Let’s Connect
 
--  [![**LinkedIn:**](<img src="./images/Linkedin.png" length="30")] (https://www.linkedin.com/in/jursida-hima-0a38a23a5)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jursida-hima-0a38a23a5)
 
 -  [![**Instagram**](./images/instagram.avif)] (https://www.instagram.com/jursihima/)
 ---
