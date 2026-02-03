@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 
 -  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jursida-hima-0a38a23a5)
 
--  [![**Instagram**](./images/instagram.avif)] (https://www.instagram.com/jursihima/)
+- [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jursihima/)
 ---
 
