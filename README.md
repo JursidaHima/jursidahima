@@ -3,7 +3,7 @@
 
 ## Jursida Hima
 ---
-**Data Integrity-Operations Associate | Data Analyst | Web Development Graduate**
+**Data Integrity-Operations Associate | Data Analyst | Web Development Junior**
 <!--
 **JursidaHima/jursidahima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
