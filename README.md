@@ -1,9 +1,4 @@
-<img src="./images/Coding.png" width="120"><img src="./images/Data analyses.jpg" width="120"><img src="./images/Data Integrity.jpeg" width="120">
----
 
-## Jursida Hima
----
-**Data Integrity-Operations Associate | Data Analyst | Web Development Graduate**
 <!--
 **JursidaHima/jursidahima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,12 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
------
-## 🧠 What I Do
 
-- 📊 Analyze data ⚙️ Improve operational workflows 🗄 Databases 🌐 Build responsive web projects 🤝 Collaborate  
----
-## 🌐 Let’s Connect
-
--  ![[**LinkedIn:**]((https://content.linkedin.com/content/dam/me/business/en-us/amp/xbu/linkedin-revised-brand-guidelines/linkedin-logo/fg/brandg-linkedinlogo-logo-background-dsk-v03.png.original.png)] (https://www.linkedin.com/in/jursida-hima-0a38a23a5)
--  ![[**Instagram**]([./images/instagram.avif](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png))] (https://www.instagram.com/jursihima/)
