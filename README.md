@@ -1,4 +1,4 @@
- <img src="./images/Coding.png" height="250" width="200"><img src="./images/Data analyses .png" height="250"  width="200"><img src="./images/Data Integrity .png" height="250"  width="200">
+ <img src="./images/Coding.png" height="200" width="200"><img src="./images/Data analyses .png" height="200"  width="200"><img src="./images/Data Integrity .png" height="200"  width="200">
 
 # Jursida Hima
 ---
