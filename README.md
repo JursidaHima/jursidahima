@@ -3,7 +3,7 @@
 # Jursida Hima
 ---
 
-## Data Integrity-Operations Associate | Data Analyst |Junior Web Developer 
+## Data Integrity-Operations Associate|Junior Web Developer 
 
 -----
 ## 🧠 What I Do
