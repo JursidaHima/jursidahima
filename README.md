@@ -3,7 +3,7 @@
 # Jursida Hima
 ---
 
-##Full-Stack Developer| Data Integrity-Operations Associate
+## Full-Stack Developer| Data Integrity-Operations Associate
 
 -----
 ## 🧠 What I Do
