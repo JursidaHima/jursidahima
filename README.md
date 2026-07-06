@@ -8,7 +8,7 @@
 -----
 ## 🧠 What I Do
 
-- 📊 Analyze data ⚙️ Improve operational workflows 🗄 Databases 🌐 Build web projects 🤝 Collaborate  
+- 🌐 Build web projects 📊 Analyze data ⚙️ Improve operational workflows 🗄 Databases 🤝 Collaborate  
 ---
 ## 🌐 Let’s Connect
 
